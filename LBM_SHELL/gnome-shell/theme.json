@@ -1,0 +1,12 @@
+{ 
+   "shell-theme": {
+   "shell-version": [ "3.4", "3.5", "3.6" ],
+   "name": "LittleBigMod_2nd",
+   "author": "ConvMe",
+   "description": "Second try of the LittleBigMod",
+   "version": "1.6",
+   "type":   "custom",
+   "thumbnail": "preview.png",
+   "url": "http://convme.deviantart.com"
+    }
+}

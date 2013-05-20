@@ -1,0 +1,25 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs>
+<linearGradient id="linearGradient3971" y2="24.989" gradientUnits="userSpaceOnUse" x2="24.482" gradientTransform="matrix(0.18289332,0,0,0.2,-0.1653569,27.002147)" y1="24.989" x1="1.25">
+<stop stop-color="#000" stop-opacity="0" offset="0"/>
+<stop stop-color="#000" stop-opacity="0" offset="0.74"/>
+<stop stop-color="#000" stop-opacity="0.60000002" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient3977" y2="24.989" gradientUnits="userSpaceOnUse" x2="24.725" gradientTransform="matrix(0.18289332,0,0,0.2,-0.1653569,27.002147)" y1="24.989" x1="0.99887">
+<stop stop-color="#f0f0f0" offset="0"/>
+<stop stop-color="#b9b9b9" offset="1"/>
+</linearGradient>
+</defs>
+<path stroke-linejoin="miter" d="m4.3114,27.052s-4.2482-0.04964-4.2489,4.9376c-0.00076,4.9872,4.2489,4.9592,4.2489,4.9592" stroke-opacity="0.50196078" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="0.09446888" fill="url(#linearGradient3977)"/>
+<path opacity="0.5" fill="url(#linearGradient3971)" d="m4.3122,27.052s-4.2482-0.04964-4.2489,4.9376c-0.00076,4.9872,4.2489,4.9592,4.2489,4.9592"/>
+</svg>

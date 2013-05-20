@@ -1,0 +1,9 @@
+
+[Plymouth Theme]
+Name=LittleBigMod_2nd Logo
+Description=Theme for the LittleBigMod_2nd.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/LittleBigMod_2nd
+ScriptFile=/lib/plymouth/themes/LittleBigMod_2nd/LittleBigMod_2nd.script
