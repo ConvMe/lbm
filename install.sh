@@ -92,7 +92,7 @@ esac
 }
 
 # Check for version of gnome shell
-gver=`gnome-session --version | grep '3.6\|3.8'`
+gver=`gnome-session --version | grep '3.8'`
 if [ -z "$gver" ]; then
   text 10
   error
